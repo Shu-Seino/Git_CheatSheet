@@ -452,3 +452,28 @@ git stash drop stash@{1}
 #全作業を削除する
 git stash clear
 ```
+
+## コンピュータにある全てのリポジトリ用にGitユーザー名、メールアドレスを設定する
+
+```bash
+# ユーザ名を設定
+git config --global user.name "<ユーザ名>"
+# メールアドレスを設定
+git config --global user.email "<email>"
+
+#確認方法
+git config --global user.name
+git config --global user.email
+```
+## 単一のリポジトリ用にGitユーザ名、メールアドレスを設定する
+
+```bash
+# ユーザ名を設定
+git config user.name "<ユーザ名>"
+# メールアドレスを設定
+git config user.email "<email>"
+
+#確認方法
+git config user.name
+git config global user.email
+```
