@@ -1,6 +1,8 @@
 # Git_CheatSheet
 # GitHubコマンド
-
+##
+イメージ図
+![](/img/github.png)
 ## ローカルリポジトリの新規作成
 
 ```bash
@@ -476,5 +478,5 @@ git config user.email "<email>"
 
 #確認方法
 git config user.name
-git config global user.email
+git config user.email
 ```
