@@ -461,7 +461,7 @@ git stash clear
 # ユーザ名を設定
 git config --global user.name "<ユーザ名>"
 # メールアドレスを設定
-git config --global user.email "<email>"
+git config --global user.email "<メールアドレス>"
 
 #確認方法
 git config --global user.name
@@ -473,7 +473,7 @@ git config --global user.email
 # ユーザ名を設定
 git config user.name "<ユーザ名>"
 # メールアドレスを設定
-git config user.email "<email>"
+git config user.email "<メールアドレス>"
 
 #確認方法
 git config user.name
