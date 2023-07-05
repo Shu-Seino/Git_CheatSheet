@@ -1,7 +1,6 @@
 # Git_CheatSheet
 # GitHubコマンド
-##
-イメージ図
+## イメージ図
 ![](/img/github.png)
 ## ローカルリポジトリの新規作成
 
