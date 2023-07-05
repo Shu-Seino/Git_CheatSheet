@@ -69,6 +69,9 @@ git log -p index.html
 
 # 表示するコミット数を制限する
 git log -n <コミット数>
+
+# グラフにして表示する
+git log --graph
 ```
 
 ## ファイルの削除を記録する
