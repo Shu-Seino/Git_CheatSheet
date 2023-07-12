@@ -482,3 +482,8 @@ git config user.email "<メールアドレス>"
 git config user.name
 git config user.email
 ```
+## 既存のリモートリポジトリを新しいリモートリポジトリへ変更する。
+
+```bash
+git remote set-url origin <新しいリモートリポジトリURL>
+```
