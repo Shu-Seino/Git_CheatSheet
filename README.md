@@ -32,6 +32,8 @@ git add .
 git commit
 git commit -m "<メッセージ>"
 git commit -v
+#空のコミット
+git commit --allow-empty -m  "<メッセージ>" 
 ```
 
 | | |
